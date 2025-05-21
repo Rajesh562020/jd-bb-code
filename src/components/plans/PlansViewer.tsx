@@ -141,7 +141,7 @@ export default function PlansViewer() {
                       '"Manrope", "Manrope Placeholder", sans-serif',
                   }}
                 >
-                  Who it's for
+                  Who it&apos;s for
                 </td>
               </tr>
                <tr>

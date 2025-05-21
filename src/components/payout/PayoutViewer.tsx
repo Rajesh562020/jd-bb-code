@@ -50,7 +50,7 @@ export default function PayoutViewer() {
               textDecoration: "none",
             }}
           >
-            We've Paid Out Over <br />
+            We&apos;ve Paid Out Over <br />
             <span
               className="font-bold"
               style={{
